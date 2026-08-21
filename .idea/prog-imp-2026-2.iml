@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/1-calculadora-simples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/2-calculo-imc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/3-calculo-inss" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/4-calculo-iprf" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
