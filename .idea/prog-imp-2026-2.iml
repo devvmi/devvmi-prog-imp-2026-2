@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/1-calculadora-simples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/2-calculo-imc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/3-calculo-inss" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
