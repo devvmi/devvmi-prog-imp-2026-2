@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/3-calculo-inss" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/4-calculo-iprf" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/5-numeros-pares-impares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/6-fatorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lista-if-else-while/7-tabuada" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
