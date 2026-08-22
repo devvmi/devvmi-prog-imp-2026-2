@@ -12,6 +12,7 @@ public class Calculadora {
 
         System.out.println("SOMA: " + (a+b));
         System.out.println("SUBTRAÇÃO: " + (a-b));
+        System.out.println("MULTIPLICAÇÃO: " + (a*b));
 
         if (b != 0) {
             System.out.print("DIVISÃO: " + (a/b));
